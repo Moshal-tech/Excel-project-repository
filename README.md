@@ -58,3 +58,16 @@ The objective was to develop practical data analysis skills by applying Excel fo
 This project strengthened my foundation in Excel-based data analysis, demonstrating my ability to organise datasets, apply analytical formulas, summarise business information and present findings visually.
 
 The skills developed are transferable to Data Analyst, Business Intelligence, Reporting Analyst and PMO Analyst roles, where accurate data analysis and clear reporting support effective business decision-making.
+
+<img width="1004" height="457" alt="image" src="https://github.com/user-attachments/assets/8c32bc48-093a-4da9-8d18-495d4717b2bb" />
+
+<img width="1004" height="525" alt="image" src="https://github.com/user-attachments/assets/0ee6b519-8e7c-459d-8223-09de086fa8d8" />
+
+<img width="638" height="1029" alt="image" src="https://github.com/user-attachments/assets/a022f6bf-ae33-4871-ba56-3df1a730dcc5" />
+
+<img width="1004" height="588" alt="image" src="https://github.com/user-attachments/assets/e24086ed-355c-4f4b-bba2-510edf5eecae" />
+
+<img width="1004" height="540" alt="image" src="https://github.com/user-attachments/assets/44b5f1e6-69a1-4c1f-a5a4-fcc7b5f95449" />
+
+
+
